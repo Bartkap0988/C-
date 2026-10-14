@@ -1,2 +1,2 @@
-# C-
-Simple C++ projects
+# C++ & Python
+Simple Python and C++ projects in Polish
